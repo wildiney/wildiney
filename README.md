@@ -1,6 +1,10 @@
 # Wildiney Di Masi
 
-## Designer / Developer
+**Designer / Developer**
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/wildiney?color=%23888888&label=%40wildiney&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/wildiney)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23888888?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildiney/)
+
 
 📫 How to reach me
 - wildiney@gmail.com
