@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wildiney@gmail.com)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=wildiney&theme=github_dark)](https://github.com/wildiney/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildiney&hide=php,less,hack,dockerfile,ejs,batchfile,makefile&langs_count=10&layout=compact&theme=github_dark)](https://github.com/wildiney/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildiney&hide=html,php,less,hack,dockerfile,ejs,batchfile,makefile&langs_count=10&layout=compact&theme=github_dark)](https://github.com/wildiney/)
 
 ## LANGUAGES
 
