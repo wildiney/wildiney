@@ -14,8 +14,8 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.wildiney.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wildiney@gmail.com)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=wildiney&show_icons=true&theme=github_dark&rank_icon=github)](https://github.com/wildiney/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildiney&hide=html,php,less,hack,dockerfile,ejs,batchfile,makefile&langs_count=10&layout=compact&theme=github_dark)](https://github.com/wildiney/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wildiney&show_icons=true&hide_title=false&theme=github_dark&rank_icon=github&count_private=true&include_all_commits=true&random_timestamp=1234567890)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildiney&hide_title=false&hide=html,php,hack,ejs,batchfile&langs_count=10&layout=compact&theme=github_dark)](https://github.com/wildiney/)
 
 ## LANGUAGES
 
