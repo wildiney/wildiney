@@ -1,7 +1,5 @@
 # Wildiney Di Masi
 
-<div align="center">
-
 Product Manager · Design Systems · UX Strategy · Discovery & Delivery
 
 🏙️ São Paulo, Brazil
@@ -10,8 +8,6 @@ Product Manager · Design Systems · UX Strategy · Discovery & Delivery
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wildiney/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.wildiney.com?utm_source=github&utm_medium=profile&utm_campaign=readme)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wildiney+github@gmail.com)
-
-</div>
 
 ---
 
@@ -91,17 +87,9 @@ Currently leading design system governance for one of Brazil's largest financial
 
 ---
 
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wildiney&show_icons=true&hide_title=false&theme=github_dark&rank_icon=github&count_private=true&include_all_commits=true)](https://github.com/wildiney/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildiney&hide_title=false&hide=html,php,hack,ejs,batchfile,dockerfile,makefile&langs_count=10&layout=compact&theme=github_dark)](https://github.com/wildiney/)
 
-</div>
-
 ---
 
-<div align="center">
-
 [wildiney.com](https://www.wildiney.com?utm_source=github&utm_medium=profile&utm_campaign=readme)
-
-</div>
